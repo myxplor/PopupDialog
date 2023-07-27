@@ -11,5 +11,5 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '9.0'
   s.source_files = 'PopupDialog/Classes/**/*'
 
-  s.dependency "myxplor/DynamicBlurView" ==2.0.2
+  s.dependency "myxplor/DynamicBlurView" ==1.0.0
 end
