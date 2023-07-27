@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.author       = { "Kyohei Ito" => "je.suis.kyohei@gmail.com" }
   s.ios.deployment_target = '8.0'
   s.tvos.deployment_target = '9.0'
-  s.source       = { :git => "https://github.com/KyoheiG3/DynamicBlurView.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/myxplor/DynamicBlurView.git", :tag => s.version.to_s }
   s.source_files  = "DynamicBlurView/**/*.{h,swift}"
   s.requires_arc = true
   s.frameworks = "UIKit", "Accelerate"
