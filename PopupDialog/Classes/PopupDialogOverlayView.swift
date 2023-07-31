@@ -24,7 +24,6 @@
 //
 
 import Foundation
-import DynamicBlurView
 
 /// The (blurred) overlay view below the popup dialog
 final public class PopupDialogOverlayView: UIView {
